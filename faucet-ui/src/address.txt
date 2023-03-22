@@ -1,0 +1,1 @@
+Faucet contract deployed address  : 0x48fCdF49c83F2cad3ADA1771179924B21a04d587
