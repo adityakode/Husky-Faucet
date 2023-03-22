@@ -1,6 +1,8 @@
 # Husky Faucet
 The Husky Token Faucet is a free and easy-to-use tool that allows users to receive Husky Tokens. Tokens are created on ethereum `goerli`  . With this faucet, you can receive a small amount of Husky Tokens for free.
 
+**Watch video tutorial here** : https://www.loom.com/share/23ee6aa159e74816a011fa548ba4190a
+
 ![image](https://user-images.githubusercontent.com/105551807/227036152-aa024191-7b5b-48ec-9c21-3bac4eeea2f0.png)
 
 
